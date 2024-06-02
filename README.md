@@ -1,5 +1,5 @@
 <div align="center">
-  <h2> Hey there! I'm Cuong.</h2>
+  <h2> Hey there! I'm Cường.</h2>
 </div>
 
 <img align="left" width="180" height="180" src="https://github.com/cuogne/cuogne/blob/main/img/pixel-art-12601_256.gif">
@@ -21,7 +21,7 @@
 <img align="center" width = "2000" src="https://github.com/cuogne/cuogne/blob/main/img/grid-snake.svg">
 
 
-<img align="right" width="240" height ="180" src="https://github.com/cuogne/cuogne/blob/main/img/gif3.gif">
+<img align="right" width="200" height ="180" src="https://github.com/cuogne/cuogne/blob/main/img/coder.gif">
 <br>
 
 ```console
