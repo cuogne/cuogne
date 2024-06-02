@@ -22,8 +22,6 @@
 
 <br>
 
-<img align="right" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="230"/>
-
 ```console
   + I'm quite easy-going so you can text and ask me questions freely.
   + And i will answer to the best of my knowledge
