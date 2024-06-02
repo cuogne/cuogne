@@ -15,7 +15,9 @@
 ```
   + You can visit and read my blogs at:
 <a href="https://cuogne.github.io">myBlog</a>
-</div>
+
+<img align="center" width = "2000" src="https://github.com/cuogne/cuogne/blob/main/img/grid-snake.svg">
+
 
 <img align="right" width="220" height ="190" src="https://github.com/cuogne/cuogne/blob/main/img/gif3.gif">
 <br>
