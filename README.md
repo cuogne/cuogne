@@ -1,38 +1,65 @@
 <div align="center">
   <h2> Hey there! I'm Cuong.</h2>
-  <img alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
-  <br>
-  <p><strong>☕ Currently I am a first year student, studying at VNUHCM - University Of Science - Faculty of Information Technology </strong></p>
-  <p><strong>☕ Maybe i want to learn... just sleep and dream ? ☕ </strong></p>
-  <p><strong> Skill </strong></p>
-
-  <span><img src="https://img.shields.io/badge/VS%20Code-fcf003?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
-  <span><img src="https://img.shields.io/badge/Python-fcf003?logo=python&logoColor=3776AB" alt="Python logo" title="python" height="25" /></span>
-  <span><img src="https://img.shields.io/badge/C++-fcf003?logo=Cplusplus&logoColor=00599C" alt="c++ logo" title="c++" height="25" /></span>
-  <span><img src="https://img.shields.io/badge/Photoshop-fcf003?logo=adobephotoshop&logoColor=31A8FF" alt="pts logo" title="pts" height="25" /></span>
-  <span><img src="https://img.shields.io/badge/Illustrator-fcf003?logo=adobeillustrator&logoColor=FF9A00" alt="ai logo" title="ai" height="25" /></span>
-  <span><img src="https://img.shields.io/badge/Premiere Pro-fcf003?logo=adobepremierepro&logoColor=9999FF" alt="premiere pro logo" title="premiere pro" height="25" /></span>
-  <span><img src="https://img.shields.io/badge/MacOS-fcf003?logo=macos&logoColor=000000" alt="macos" title="macos" height="25" /></span>
-  <span><img src="https://img.shields.io/badge/Discord-fcf003?logo=discord&logoColor=#5865F2" alt="discord" title="discord" height="25" /></span>
 </div>
 
+<img align="left" width="180" height="180" src="https://github.com/cuogne/cuogne/blob/main/img/pixel-art-12601_256.gif">
+
+```console
+  + Hi, I'm Cường - a boy who often sleeps and dreams...
+  + You can call me Cừn - The nickname my friends gave me and I'm also used to this nickname hehe 
+  + I'm currently studying at University of Science - Vietnam National Unviersity HCMC
+  + Faculty of Information Technology - FIT@HCMUS
+  + Date : 11/06/2005 - Gemini
+  + Email : cuog.nc116@gmail.com
+```
+  + You can visit and read my blogs at:
+<a href="https://cuogne.github.io">myBlog</a>
+</div>
+
+<div align = "center">
+  <img src="https://github.com/cuogne/cuogne/blob/main/img/gif3.gif" alt="snake">
+</div>
+
+<br>
+
+<img align="right" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="230"/>
+
+```console
+  + I'm quite easy-going so you can text and ask me questions freely.
+  + And i will answer to the best of my knowledge
+  + Reading books, listening to indie music, going somewhere or sleeping is how I relax
+  + I also watch many genres of movies as well as read manga and watch anime
+  + I also play some games like Arena Of Valor (Liên Quân Mobile), Genshin Impact,...
+  + Name of AOV : cừn. - UID Genshin : 812437754
+```
+
+<div align = "center">
+  <h2> ⚔️ Skill ⚔️</h2>
+  
+  [![](https://skillicons.dev/icons?i=cpp&theme=light)]()
+  [![](https://skillicons.dev/icons?i=py&theme=light)]()
+  [![](https://skillicons.dev/icons?i=github&theme=light)](https://github.com/cuogne)
+  [![](https://skillicons.dev/icons?i=git&theme=light)]()
+  [![](https://skillicons.dev/icons?i=visualstudio&theme=light)]()
+  [![](https://skillicons.dev/icons?i=vscode&theme=light)]()
+  [![](https://skillicons.dev/icons?i=matlab&theme=light)]()
+  [![](https://skillicons.dev/icons?i=latex&theme=light)]()
+  [![](https://skillicons.dev/icons?i=windows&theme=light)]()
+  [![](https://skillicons.dev/icons?i=apple&theme=light)]()
+  [![](https://skillicons.dev/icons?i=photoshop&theme=light)]()
 
   
- <br>
+</div>
+
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=cuogne&show_icons=true&count_private=true">
        <img height=150 src="https://github-readme-stats.vercel.app/api?username=cuogne&show_icons=true&count_private=true"/></a>
    <a href="https://github.com/cuogne">
        <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuogne&layout=compact"/></a>
+  <a href="http://www.github.com/cuogne"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cuogne&stroke=3382ed&background=ffffff&ring=ef4444&fire=ef4444&currStreakNum=3382ed&currStreakLabel=ef4444&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
 </p>
-<div align="center" style="margin: 40px 0">
-   <a href="https://github.com/cuogne">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=cuogne&color=DE002D">
-   </a>
-</div>
-  
-  <br>
+
   <h2 align="center">👽 Contact Me 👽</h2>
   <br>
   <!-- https://icons8.com -->
