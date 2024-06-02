@@ -16,9 +16,8 @@
 <a href="https://cuogne.github.io">myBlog</a>
 </div>
 
-<div align = "center">
-  <img src="https://github.com/cuogne/cuogne/blob/main/img/gif3.gif" alt="snake">
-</div>
+  
+<img align="right" width="220" height ="190" src="https://github.com/cuogne/cuogne/blob/main/img/gif3.gif">
 
 <br>
 
