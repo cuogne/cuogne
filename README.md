@@ -6,7 +6,7 @@
 
 ```console
   + Hi, I'm Cường - a boy who often sleeps and dreams...
-  + You can call me Cừn - The nickname my friends gave me and I'm also used to this nickname hehe 
+  + You can call me Cừn - The nickname my friends gave me and I'm also used to this nickname
   + I'm currently studying at University of Science - Vietnam National Unviersity HCMC
   + Faculty of Information Technology - FIT@HCMUS
   + Date : 11/06/2005 - Gemini
@@ -18,7 +18,6 @@
 
   
 <img align="right" width="220" height ="190" src="https://github.com/cuogne/cuogne/blob/main/img/gif3.gif">
-
 <br>
 
 ```console
@@ -29,6 +28,10 @@
   + I also play some games like Arena Of Valor (Liên Quân Mobile), Genshin Impact,...
   + Name of AOV : cừn. - UID Genshin : 812437754
 ```
+
+<br>
+<br>
+<br>
 
 <div align = "center">
   <h2> ⚔️ Skill ⚔️</h2>
