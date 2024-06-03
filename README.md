@@ -33,8 +33,6 @@
   + I also play some games like Arena Of Valor (Liên Quân Mobile), Genshin Impact
   + Name of AOV : cừn. - UID Genshin : 812437754
 ```
-<br>
-<br>
 
 <div align = "center">
   <h2> ⚔️ Skill ⚔️</h2>
