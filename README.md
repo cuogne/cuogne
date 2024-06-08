@@ -17,9 +17,9 @@
 <div align = "center">
   <p>
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=31z4hwucc4g3x3klr2ezheobh2ee&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31z4hwucc4g3x3klr2ezheobh2ee&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" width="480">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31z4hwucc4g3x3klr2ezheobh2ee&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" width="420">
   </a>
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31z4hwucc4g3x3klr2ezheobh2ee&count=2" alt="Recently Played" width="300">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31z4hwucc4g3x3klr2ezheobh2ee&count=2" alt="Recently Played" width="240">
 </p>
 
 > <i> It is music's lofty mission to shed light on the depths of the human heart - Robert Schumann </i>
