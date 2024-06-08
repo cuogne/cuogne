@@ -34,7 +34,7 @@
     <img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=31z4hwucc4g3x3klr2ezheobh2ee&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" width="400">
 </a>
   
-  <i align = "right"> It is music's lofty mission to shed light on the depths of the human heart - Robert Schumann </i>
+  > <i align = "right"> It is music's lofty mission to shed light on the depths of the human heart - Robert Schumann </i>
 
 </div>
 
@@ -62,10 +62,11 @@
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=cuogne&show_icons=true&count_private=true">
-       <img height=150 src="https://github-readme-stats.vercel.app/api?username=cuogne&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/cuogne">
-       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuogne&layout=compact"/></a>
-  <a href="http://www.github.com/cuogne"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cuogne&stroke=3382ed&background=ffffff&ring=ef4444&fire=ef4444&currStreakNum=3382ed&currStreakLabel=ef4444&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
+       <img height=140 src="https://github-readme-stats.vercel.app/api?username=cuogne&show_icons=true&count_private=true"/></a>
+   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=cuogne&layout=compact">
+       <img height=140 src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuogne&layout=compact"/></a>
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=cuogne&stroke=3382ed&background=ffffff&ring=ef4444&fire=ef4444&currStreakNum=3382ed&currStreakLabel=ef4444&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true">
+    <img height=140 src="https://github-readme-streak-stats.herokuapp.com/?user=cuogne&stroke=3382ed&background=ffffff&ring=ef4444&fire=ef4444&currStreakNum=3382ed&currStreakLabel=ef4444&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
 </p>
 
 <h2 align="center">👽 Contact Me 👽</h2>
