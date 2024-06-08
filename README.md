@@ -14,31 +14,18 @@
   + Email : cuog.nc116@gmail.com
 ```
 
-<img align="center" width = "2000" src="https://github.com/cuogne/cuogne/blob/main/img/grid-snake.svg">
-
-<img align="right" width="200" height ="180" src="https://github.com/cuogne/cuogne/blob/main/img/coder.gif">
-<br>
-
-```console
-  + I'm quite easy-going so you can text and ask me questions freely.
-  + And i will answer to the best of my knowledge
-  + Reading books, listening to indie music, going somewhere or sleeping 
-    is how I relax
-  + I also watch many genres of movies as well as read manga and watch anime
-  + I also play some games like Arena Of Valor (Liên Quân Mobile), Genshin Impact
-  + Name of AOV : cừn. - UID Genshin : 812437754
-```
-
 <div align = "center">
+  <p>
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=31z4hwucc4g3x3klr2ezheobh2ee&redirect=true">
-    <img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=31z4hwucc4g3x3klr2ezheobh2ee&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" width="400">
-</a>
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31z4hwucc4g3x3klr2ezheobh2ee&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" width="480">
+  </a>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31z4hwucc4g3x3klr2ezheobh2ee&count=2" alt="Recently Played" width="300">
+</p>
+
+> <i> It is music's lofty mission to shed light on the depths of the human heart - Robert Schumann </i>
   
-  > <i align = "right"> It is music's lofty mission to shed light on the depths of the human heart - Robert Schumann </i>
-
 </div>
-
-
+  
 <div align = "center">
   <h2> ⚔️ Skill ⚔️</h2>
   
