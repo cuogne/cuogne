@@ -15,7 +15,7 @@
 ```
 
 <div align = "center">
-
+<h2>🎹 Music 🎹</h2>
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=31z4hwucc4g3x3klr2ezheobh2ee&redirect=true">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=31z4hwucc4g3x3klr2ezheobh2ee&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" width="420">
   </a>
@@ -58,7 +58,6 @@
 </p>
 
 <h2 align="center">👽 Contact Me 👽</h2>
-<br>
 <!-- https://icons8.com -->
 <div align="center">
     <a href="https://facebook.com/cuoq.nc" target="blank">
