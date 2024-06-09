@@ -2,7 +2,7 @@
   <h2> Hey there! I'm Cường.</h2>
 </div>
 
-<img align="left" width="180" height="180" src="https://github.com/cuogne/cuogne/blob/main/img/pixel-art-12601_256.gif">
+<img align="left" width="170" height="170" src="https://github.com/cuogne/cuogne/blob/main/img/pixel-art-12601_256.gif">
 
 ```console
   + Hi, I'm Cường - a boy who often sleeps and dreams...
@@ -13,17 +13,17 @@
   + Date : 11/06/2005 - Gemini
   + Email : cuog.nc116@gmail.com
 ```
-<br>
 <h2 align = "center">🎹 Music 🎹</h2>
+<br>
 
 <div align = "center">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=31z4hwucc4g3x3klr2ezheobh2ee&redirect=true">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=31z4hwucc4g3x3klr2ezheobh2ee&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" width="420">
   </a>
-    <br>
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31z4hwucc4g3x3klr2ezheobh2ee&count=2" alt="Recently Played" width="420">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31z4hwucc4g3x3klr2ezheobh2ee&count=2" alt="Recently Played" width="420" height = "120">
 <br>
 <br>
+  
 > <i> It is music's lofty mission to shed light on the depths of the human heart - Robert Schumann </i>
   
 </div>
@@ -51,11 +51,11 @@
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=cuogne&show_icons=true&count_private=true">
-       <img height=140 src="https://github-readme-stats.vercel.app/api?username=cuogne&show_icons=true&count_private=true"/></a>
+       <img height=180 src="https://github-readme-stats.vercel.app/api?username=cuogne&show_icons=true&count_private=true"/></a>
    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=cuogne&layout=compact">
-       <img height=140 src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuogne&layout=compact"/></a>
+       <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuogne&layout=compact"/></a>
   <a href="https://github-readme-streak-stats.herokuapp.com/?user=cuogne&stroke=3382ed&background=ffffff&ring=ef4444&fire=ef4444&currStreakNum=3382ed&currStreakLabel=ef4444&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true">
-    <img height=140 src="https://github-readme-streak-stats.herokuapp.com/?user=cuogne&stroke=3382ed&background=ffffff&ring=ef4444&fire=ef4444&currStreakNum=3382ed&currStreakLabel=ef4444&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
+    <img height=180 src="https://github-readme-streak-stats.herokuapp.com/?user=cuogne&stroke=3382ed&background=ffffff&ring=ef4444&fire=ef4444&currStreakNum=3382ed&currStreakLabel=ef4444&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
 </p>
 
 <h2 align="center">👽 Contact Me 👽</h2>
