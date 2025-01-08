@@ -62,21 +62,18 @@
 <!-- https://icons8.com -->
 <div align="center">
     <a href="https://facebook.com/cuoq.nc" target="blank">
-        <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="cuogne-facebook" />
-    </a>
-    <a href="https://discord.gg/haycRy5eqW" target="blank">
-        <img src="https://img.icons8.com/?size=100&id=o8pzFDpLiRSw&format=png" alt="cuogne-discord" />
-    </a>
-    <a href="https://www.linkedin.com/in/cuogne/" target="blank">
-        <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="cuogne-linkedin" />
+        <img src="./img/icon/fb.png" alt="cuogne-facebook" />
     </a>
     <a href="https://instagram.com/_cuogne" target="blank">
-        <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="cuogne-instagram" />
+        <img src="./img/icon/ins.png" alt="cuogne-instagram" />
+    </a>
+    <a href="https://www.linkedin.com/in/cuogne/" target="blank">
+        <img src="./img/icon/linkedin.png" alt="cuogne-linkedin" />
     </a>
     <a href="mailto:cuog.nc116@gmail.com" target="top">
-        <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="cuogne-email" />
+        <img src="./img/icon/gmail.png" alt="cuogne-gmail" />
     </a>
-    <a href="https://open.spotify.com/user/31z4hwucc4g3x3klr2ezheobh2ee?si=bc10ef49609b4f38" target="blank">
-        <img src="https://img.icons8.com/?size=100&id=116712&format=png" alt="cuogne-spotify" />
+    <a href="mailto:23120223@student.hcmus.edu.vn" target="top">
+        <img src="./img/icon/outlook.png" alt="cuogne-outlook" />
     </a>
 </div>
