@@ -2,7 +2,7 @@
   <h2> Hey there! I'm Cường.</h2>
 </div>
 
-<img align="left" width="170" height="170" src="https://github.com/cuogne/cuogne/blob/main/img/pixel-art-12601_256.gif">
+<img align="left" width="170" height="170" src="./img/pixel-art-12601_256.gif">
 
 ```console
   + Hi, I'm Cường - a boy who often sleeps and dreams...
@@ -13,6 +13,11 @@
   + Date : 11/06/2005 - Gemini
   + Email : cuog.nc116@gmail.com
 ```
+
+<div align="center">
+<img align="center"src="./img/grid-snake.svg">
+</div>
+
 <h2 align = "center">🎹 Music 🎹</h2>
 <br>
 
@@ -50,30 +55,28 @@
 </div>
 
 <p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=cuogne&show_icons=true&count_private=true">
-       <img height=180 src="https://github-readme-stats.vercel.app/api?username=cuogne&show_icons=true&count_private=true"/></a>
    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=cuogne&layout=compact">
        <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuogne&layout=compact"/></a>
   <a href="https://github-readme-streak-stats.herokuapp.com/?user=cuogne&stroke=3382ed&background=ffffff&ring=ef4444&fire=ef4444&currStreakNum=3382ed&currStreakLabel=ef4444&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true">
-    <img height=180 src="https://github-readme-streak-stats.herokuapp.com/?user=cuogne&stroke=3382ed&background=ffffff&ring=ef4444&fire=ef4444&currStreakNum=3382ed&currStreakLabel=ef4444&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
+    
 </p>
 
 <h2 align="center">👽 Contact Me 👽</h2>
 <!-- https://icons8.com -->
 <div align="center">
     <a href="https://facebook.com/cuoq.nc" target="blank">
-        <img src="./img/icon/fb.png" alt="cuogne-facebook" />
+        <img src="./img/icon/fb.png" alt="cuogne-facebook" width="60" height="60" />
     </a>
     <a href="https://instagram.com/_cuogne" target="blank">
-        <img src="./img/icon/ins.png" alt="cuogne-instagram" />
+        <img src="./img/icon/ins.png" alt="cuogne-instagram" width="60" height="60" />
     </a>
     <a href="https://www.linkedin.com/in/cuogne/" target="blank">
-        <img src="./img/icon/linkedin.png" alt="cuogne-linkedin" />
+        <img src="./img/icon/linkedin.png" alt="cuogne-linkedin" width="60" height="60" />
     </a>
     <a href="mailto:cuog.nc116@gmail.com" target="top">
-        <img src="./img/icon/gmail.png" alt="cuogne-gmail" />
+        <img src="./img/icon/gmail.png" alt="cuogne-gmail" width="60" height="60" />
     </a>
     <a href="mailto:23120223@student.hcmus.edu.vn" target="top">
-        <img src="./img/icon/outlook.png" alt="cuogne-outlook" />
+        <img src="./img/icon/outlook.png" alt="cuogne-outlook" width="60" height="60" />
     </a>
 </div>
