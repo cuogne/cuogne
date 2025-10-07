@@ -6,10 +6,9 @@
 
 <img align="center" width="600" src="./img/grid-snake.svg">
 
-<br>
-<br>
-<img align="center" width="700" src="./img/NOW_WITH_MONA.gif">
-
+<div align="center">
+  <img width="700" src="./img/NOW_WITH_MONA.gif">
+</div>
 
 ### <samp>&gt; Language</samp>
 
