@@ -1,10 +1,10 @@
 ## <samp>Hi there 👋 I'm Cường 👨‍💻 </samp>
 <img align="left" width="200" height="200" src="./img/pixel-art-12601_256.gif">
 
-#### <samp> A student at University Of Science - VNUHCM (HCMUS)</samp>
-#### <samp> Faculty of Information Technology - FIT@HCMUS </samp>
+### <samp> A student at University Of Science - VNUHCM (HCMUS)</samp>
+### <samp> Faculty of Information Technology - FIT@HCMUS </samp>
 
-<img align="center" width="500" src="./img/grid-snake.svg">
+<img align="center" width="600" src="./img/grid-snake.svg">
 
 ### <samp>&gt; Language</samp>
 
