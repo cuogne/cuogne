@@ -6,6 +6,11 @@
 
 <img align="center" width="600" src="./img/grid-snake.svg">
 
+<br>
+<br>
+<img align="center" width="800" src="./img/NOW_WITH_MONA.gif">
+
+
 ### <samp>&gt; Language</samp>
 
 <p align="left">
