@@ -8,7 +8,7 @@
 
 <br>
 <br>
-<img align="center" width="800" src="./img/NOW_WITH_MONA.gif">
+<img align="center" width="700" src="./img/NOW_WITH_MONA.gif">
 
 
 ### <samp>&gt; Language</samp>
